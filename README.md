@@ -27,7 +27,6 @@
 
 Programming Languages:
 <p>
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -39,8 +38,18 @@ Programming Languages:
 
 Databases:
 <p>
-<img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/>
+ <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 </p>
+ 
+ Ui Design Tools:
+ <p>
+  <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-lightroom--v1.png"/>
+ </p>
 
 <br>
 
