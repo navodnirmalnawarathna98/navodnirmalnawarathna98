@@ -23,7 +23,7 @@
   
 <br>
 
-[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
+
 
 ## 🚀 Languages and Tools:
 
@@ -71,7 +71,7 @@ Databases:
   
 
 <br/>
-
+[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
 <br/>
 
 ## Connect with me:
