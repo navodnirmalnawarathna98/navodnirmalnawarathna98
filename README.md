@@ -71,7 +71,9 @@ Databases:
   
 
 <br/>
-[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
+<p>
+ [![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
+</p>
 <br/>
 
 ## Connect with me:
