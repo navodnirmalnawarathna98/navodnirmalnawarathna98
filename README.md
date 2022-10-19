@@ -20,6 +20,8 @@
 - 📫 How to reach me **[Upcoming]**
   
 - ⚡ Fun fact **I play games and go to the GYM very often.**
+
+[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
   
 <br>
 
@@ -71,9 +73,7 @@ Databases:
   
 
 <br/>
-<p>
- [![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
-</p>
+
 <br/>
 
 ## Connect with me:
