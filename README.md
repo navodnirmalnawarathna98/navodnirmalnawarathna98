@@ -23,6 +23,8 @@
   
 <br>
 
+[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
+
 ## 🚀 Languages and Tools:
 
 Programming Languages:
