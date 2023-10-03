@@ -23,7 +23,7 @@
  
  -Hacktoberfest 2023
 
-[!(https://holopin.me/navodnirmalnawarathna98)](https://holopin.io/@navodnirmalnawarathna98)
+[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
   
 <br>
 
