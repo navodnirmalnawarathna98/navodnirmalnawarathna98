@@ -21,9 +21,9 @@
   
 - ⚡ Fun fact **I play games and go to the GYM very often.**
  
- -Hacktoberfest 2022
+ -Hacktoberfest 2023
 
-[![@nova98's Holopin board](https://holopin.me/nova98)](https://holopin.io/@nova98)
+[!(https://holopin.me/navodnirmalnawarathna98)](https://holopin.io/@navodnirmalnawarathna98)
   
 <br>
 
