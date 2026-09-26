@@ -186,6 +186,16 @@ Contributor to **Hacktoberfest 2023** and open-source projects.
 
 </div>
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/navodnirmalnawarathna98">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navodnirmalnawarathna98&theme=tokyonight" width="95%" />
+</a>
+
+</div>
+
 ---
 
 ## 🔭 Currently Exploring
